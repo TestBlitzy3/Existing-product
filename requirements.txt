@@ -1,0 +1,3 @@
+# Hello World application dependencies
+# Minimal dependency list focused only on essential web server components
+Flask>=2.3.0,<2.4.0
